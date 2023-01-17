@@ -4,13 +4,13 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Data Science
 
-- Course 2
+- Intro to Proofs and Logic
 
-- Course 3
+- Differential Equations
 
-- Course 4
+- Linear Algebra
 
 **Hobbies:**
 
