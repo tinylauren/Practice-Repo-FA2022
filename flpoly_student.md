@@ -1,5 +1,4 @@
-## Student Name (or name you would preferred to be called)
-
+Lauren Bautista
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
@@ -16,12 +15,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Crocheting
 
-- Thing 2
+- Math
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Disney World
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/22
