@@ -1,26 +1,27 @@
-Lauren Bautista
+## Lauren Bautista
+
 ### Spring 2023
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Data Science
+-   Data Science
 
-- Intro to Proofs and Logic
+-   Intro to Proofs and Logic
 
-- Differential Equations
+-   Differential Equations
 
-- Linear Algebra
+-   Linear Algebra
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am *passionate about*:
 
-- Crocheting
+-   Crocheting
 
-- Math
+-   Math
 
-- Disney World
+-   Disney World
 
-***
+------------------------------------------------------------------------
 
 > Last modified: 2023/01/22
