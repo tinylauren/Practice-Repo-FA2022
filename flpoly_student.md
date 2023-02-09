@@ -2,15 +2,15 @@
 
 ### Spring 2023
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
+Practicing GitHub stuff for exam 1
 
--   Data Science
+-   Ch 4
 
--   Intro to Proofs and Logic
+-   Ch 5
 
--   Differential Equations
+-   Ch 6
 
--   Linear Algebra
+-   Ch 7
 
 **Hobbies:**
 
@@ -24,4 +24,4 @@ I am *passionate about*:
 
 ------------------------------------------------------------------------
 
-> Last modified: 2023/01/22
+> Last modified: 2023/02/9
